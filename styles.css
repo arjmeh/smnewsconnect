@@ -52,6 +52,7 @@ img {
 .chinatree {
   position: absolute;
   left: 25px;
+  top: 11%;
 }
 
 .world {
@@ -84,10 +85,16 @@ img {
 .fartingflorida {
   position: absolute;
   left: 25px;
-  top: 600px;
+  top: 82%;
 }
 
 .ramswon {
   position: absolute;
   left: 25px;
+}
+
+.appleclose {
+  position: absolute;
+  left: 45%;
+  top: 11%;
 }
