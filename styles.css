@@ -78,7 +78,7 @@ img {
 .fartingflorida {
   position: absolute;
   left: 25px;
-  top: 82%;
+  top: 94%;
 }
 
 .ramswon {
@@ -90,4 +90,23 @@ img {
   position: absolute;
   left: 45%;
   top: 11%;
+}
+
+.ukraine {
+  position: absolute;
+  left: 45%;
+  top: 94%;
+}
+
+.live {
+  width: 36px;
+  height: 20px;
+  border-radius: 3px;
+  background-color: red;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: 127%;
+  left: 69%;
 }
